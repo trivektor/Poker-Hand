@@ -1,0 +1,26 @@
+4Clubs 3Clubs 2Clubs 6Clubs 5Clubs
+2Clubs 3Clubs 4Clubs 5Clubs 6Clubs
+
+2Clubs 7Hearts 7Diamonds 7Spades 7Clubs
+2Clubs 7Clubs 7Diamonds 7Hearts 7Spades
+
+8Clubs 5Spades 8Diamonds 8Hearts 5Clubs
+5Clubs 5Spades 8Clubs 8Diamonds 8Hearts
+
+7Hearts 9Hearts JHearts 3Hearts KHearts
+3Hearts 7Hearts 9Hearts JHearts KHearts
+
+7Hearts 9Clubs JSpades 10Hearts 8Diamonds
+7Hearts 8Diamonds 9Clubs 10Hearts JSpades
+
+7Clubs 3Diamonds 7Hearts QClubs 7Spades
+3Diamonds 7Clubs 7Hearts 7Spades QClubs
+
+AHearts ADiamonds KClubs KDiamonds 2Clubs
+2Clubs KClubs KDiamonds ADiamonds AHearts
+
+ASpades ADiamonds KClubs QDiamonds 2Clubs
+2Clubs QDiamonds KClubs ADiamonds ASpades
+
+2Clubs AHearts 6Diamonds 3Spades 7Clubs
+2Clubs 3Spades 6Diamonds 7Clubs AHearts
